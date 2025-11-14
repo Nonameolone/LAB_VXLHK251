@@ -1,0 +1,7 @@
+traffic_led_process.c:36:6:init_traffic_process	8	static
+traffic_led_process.c:43:6:init_traffic_time	4	static
+traffic_led_process.c:53:6:auto_mode_process	8	static
+traffic_led_process.c:139:6:manual_mode_process	8	static
+traffic_led_process.c:177:6:increase_led_counter	16	static
+traffic_led_process.c:204:6:check_error	4	static
+traffic_led_process.c:219:6:traffic_process	8	static

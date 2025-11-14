@@ -1,0 +1,10 @@
+physic.c:10:13:turnOnAllLed	8	static
+physic.c:15:13:turnOffAllLed	8	static
+physic.c:20:6:test7seg	8	static
+physic.c:27:6:testAllLed	8	static
+physic.c:35:6:turnOnRed	16	static
+physic.c:47:6:turnOnYellow	16	static
+physic.c:59:6:turnOnGreen	16	static
+physic.c:71:6:blinkRed	8	static
+physic.c:78:6:blinkYellow	8	static
+physic.c:85:6:blinkGreen	8	static

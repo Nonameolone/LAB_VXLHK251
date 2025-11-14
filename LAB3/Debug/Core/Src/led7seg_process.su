@@ -1,0 +1,4 @@
+led7seg_process.c:20:6:initLed7Seg	8	static
+led7seg_process.c:24:6:setLed7Seg	16	static
+led7seg_process.c:28:6:Led7Seg_Scanning	8	static
+led7seg_process.c:73:6:setLed7Seg_process	16	static

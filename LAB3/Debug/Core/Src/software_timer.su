@@ -1,0 +1,7 @@
+software_timer.c:16:6:setTimer1	16	static
+software_timer.c:22:6:setTimer2	16	static
+software_timer.c:28:6:setTimer3	16	static
+software_timer.c:35:6:timer1Run	4	static
+software_timer.c:44:6:timer2Run	4	static
+software_timer.c:53:6:timer3Run	4	static
+software_timer.c:64:6:HAL_TIM_PeriodElapsedCallback	16	static
