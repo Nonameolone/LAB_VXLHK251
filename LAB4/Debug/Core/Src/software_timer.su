@@ -1,0 +1,11 @@
+software_timer.c:15:6:setTimer1	16	static
+software_timer.c:21:6:setTimer2	16	static
+software_timer.c:27:6:setTimer3	16	static
+software_timer.c:34:6:timer1Run	4	static
+software_timer.c:43:6:timer2Run	4	static
+software_timer.c:52:6:timer3Run	4	static
+software_timer.c:62:6:ToggleLedRed	8	static
+software_timer.c:66:6:ToggleLedYellow	8	static
+software_timer.c:70:6:ToggleLedGreen	8	static
+software_timer.c:74:6:ToggleLedBlue	8	static
+software_timer.c:78:6:ToggleLedOrange	8	static
